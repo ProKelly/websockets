@@ -1,0 +1,17 @@
+/* notifications/static/css/styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    background-color: #1a202c;
+    color: #fff;
+}
+
+.notification {
+    border: 1px solid #cbd5e0;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #edf2f7;
+    border-radius: 5px;
+}
